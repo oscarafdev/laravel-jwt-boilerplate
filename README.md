@@ -19,6 +19,7 @@
 2)- Configurar enviroment: Crear el archivo .env en la raíz del proyecto con sus debidas configuraciones
 3)- Instalar dependencias - `composer update`
 4)- Migrar DB - `php artisan migrate`
+
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Este proyecto esta bajo licencia open source de [MIT](https://opensource.org/licenses/MIT).
