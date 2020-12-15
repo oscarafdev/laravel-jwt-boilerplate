@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "oscarafdev/laravel-jwt-boilerplate",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": [
